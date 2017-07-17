@@ -1,1 +1,1 @@
-puts "get out of here with that shit!!"
+You know that puts doesn't work here right? Just saying bro
